@@ -20,7 +20,7 @@ document.observe("dom:loaded", function () {
     // Clear style attribute for main table
     $('main-table').setStyle({background:"none"});
     // Create table row with Rackspace logo and search field cells
-    var logoRow = new Element('tr').update('<td colspan="2" id="rackspace-logo"></td><td id="search-wrap"></td>');
+    var logoRow = new Element('tr').update('<td colspan="2" id="neighborly-logo"></td><td id="search-wrap"></td>');
     // Prepend logo row to main table body
     $$('#main-table tbody :first-child')[0].insert({
         before: logoRow
