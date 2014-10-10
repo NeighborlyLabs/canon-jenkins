@@ -15,7 +15,7 @@ body {
 .logo {
     width: 136px !important;
     height: 34px !important;
-    background: url('nbr-jenkins.png') no-repeat;
+    background: url('newlogo.png') no-repeat;
     margin-top: 8px;
     cursor: pointer;
 }
@@ -36,7 +36,7 @@ body {
 #header,
 #footer-container {
     background: none repeat scroll 0 0 #333333 !important;
-    color: #999999;
+    color: #3a22d9;
 }
 
 #footer-container a {
