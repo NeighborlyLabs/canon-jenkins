@@ -13,7 +13,7 @@ body {
 }
 
 .logo {
-    width: 136px !important;
+    width: 163px !important;
     height: 34px !important;
     background: url('newlogo.png') no-repeat;
     margin-top: 8px;
@@ -35,8 +35,8 @@ body {
 
 #header,
 #footer-container {
-    background: none repeat scroll 0 0 #333333 !important;
-    color: #3a22d9;
+    background: none repeat scroll 0 0 #3a22d9 !important;
+    color: #999999;
 }
 
 #footer-container a {
