@@ -13,7 +13,6 @@ body {
 }
 
 .logo {
-    width: 154px !important;
     height: 34px !important;
     background: url('nbr-jenkins.png') no-repeat;
     margin-top: 8px;
