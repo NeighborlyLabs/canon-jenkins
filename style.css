@@ -13,10 +13,11 @@ body {
 }
 
 .logo {
-    width: 163px !important;
+    width: 179px !important;
     height: 34px !important;
     background: url('newlogo.png') no-repeat;
-    margin-top: 8px;
+    margin-top: 4px;
+    margin-bottom: 4px;
     cursor: pointer;
 }
 
